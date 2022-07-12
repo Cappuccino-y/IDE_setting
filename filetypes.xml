@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="output" type="AUTO_DETECTED" />
       <mapping pattern="input" type="AUTO_DETECTED" />
+      <mapping pattern="asd" type="AUTO_DETECTED" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
