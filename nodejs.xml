@@ -3,5 +3,8 @@
     <local-interpreter path="E:/NJ/node.exe">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="D:/Scoop/apps/nodejs/current/node.exe">
+      <version-cache version="18.8.0" last-modified="1661350273417" />
+    </local-interpreter>
   </component>
 </application>
