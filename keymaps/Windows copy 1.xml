@@ -51,6 +51,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="RestartIde">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt s" />
