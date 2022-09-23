@@ -5,11 +5,14 @@
       <mapping pattern="output" type="AUTO_DETECTED" />
       <mapping pattern="input" type="AUTO_DETECTED" />
       <mapping pattern="asd" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
