@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="47525263-7436-4f0c-83d3-93384738959c" name="anonym5@10.15.190.252:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="10.15.190.252" port="45" sshConfigId="6ce1b54b-7da8-4665-b296-e1a431c9b935" sshConfig="anonym5@10.15.190.252:45 password" />
+        <fileTransfer rootFolder="/home/anonym5" accessType="SFTP" host="10.15.190.252" port="45" sshConfigId="6ce1b54b-7da8-4665-b296-e1a431c9b935" sshConfig="anonym5@10.15.190.252:45 password" />
       </webServer>
     </option>
   </component>
