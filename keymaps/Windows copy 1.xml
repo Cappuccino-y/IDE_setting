@@ -1,6 +1,9 @@
 <keymap version="1" name="Windows copy 1" parent="$default">
   <action id="AceAction" />
   <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -58,9 +61,6 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="RestartIde">
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowSettings">
