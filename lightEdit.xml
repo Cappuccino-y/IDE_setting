@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/anaconda3/pkgs/sympy-1.8-py38haa95532_0/Lib/site-packages/sympy/codegen/pyutils.py" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="260" y="20" width="1400" height="1000" />
+    </option>
+  </component>
+</application>
