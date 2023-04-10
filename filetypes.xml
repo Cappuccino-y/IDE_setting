@@ -6,6 +6,7 @@
       <mapping pattern="input" type="AUTO_DETECTED" />
       <mapping pattern="asd" type="AUTO_DETECTED" />
       <mapping ext="pth" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
